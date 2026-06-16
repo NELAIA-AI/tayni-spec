@@ -1,4 +1,4 @@
-﻿# NELAIA Specification
+# TAYNI Specification
 Formal definition of the Neural Execution Language.
 
 ## Structure
